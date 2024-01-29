@@ -1,6 +1,7 @@
 import React from 'react';
 import './index.css';
-import {VideoList, Navbar, Footer} from './Pages'
+import {VideoList} from './Pages'
+import {Navbar, Footer} from './Components'
 
 function App() {
     return <>
